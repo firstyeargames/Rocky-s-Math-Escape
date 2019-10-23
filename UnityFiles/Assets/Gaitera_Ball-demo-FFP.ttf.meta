@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: db71c432c173a4949b7e700cb2b487f7
+timeCreated: 1510676835
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gaitera Ball
+  fontNames:
+  - Gaitera Ball
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
